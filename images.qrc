@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>file.jpg</file>
+        <file>print.jpg</file>
+        <file>reverse.jpg</file>
+        <file>save.jpg</file>
+    </qresource>
+</RCC>
